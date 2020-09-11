@@ -19,7 +19,7 @@ If you're after a free course, [check this one by Free Code Camp](https://www.yo
 
 For this study guide, I also put the confidence level cell, like the one for AZ-104. You can rate your knowledge in a specific area, for later referral.
 
-I hope you find useful. Please feel free to add, or change anything.
+I hope you find it useful. Please feel free to add, or change anything.
 
 
 
