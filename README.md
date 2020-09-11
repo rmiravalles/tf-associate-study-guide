@@ -1,7 +1,7 @@
 ![Terraform Associate](/terraformassociateweb.png)
 # Terraform Associate Study Guide
 
-This is a study guide I made to help me, and hopefully others, study for the Hashicorp's Terraform Associate exam. It's an Excel file, called [Terraform Associate Study Guide.xlsx](/Terraform Associate Study Guide.xlsx)
+This is a study guide I made to help me, and hopefully others, study for the Hashicorp's Terraform Associate exam. It's an Excel file, called Terraform Associate Study Guide.xlsx and it's right here in this repo.
 
 ## These are some details about the exam
 
